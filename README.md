@@ -6,7 +6,7 @@
 
 `index.html`을 브라우저로 열면 메인 화면이 표시됩니다. 메인의 `전체상품`을 누르면 `products.html`로 이동하고, 전체상품 화면의 로고를 누르면 메인으로 돌아옵니다.
 
-GitHub 저장소에 이 폴더의 파일을 업로드한 다음, 저장소 **Settings → Pages → Build and deployment**에서 **Deploy from a branch**, `main`, `/ (root)`를 선택하면 됩니다. 모든 내부 경로는 상대 경로입니다. 이번 작업에서는 업로드나 공개 배포를 진행하지 않았습니다.
+저장소: https://github.com/SSaeyou/ssaekkan-bakery · GitHub Pages 주소: https://ssaeyou.github.io/ssaekkan-bakery/ . Pages 소스는 `main` 브랜치의 `/ (root)`입니다. 모든 내부 경로는 상대 경로입니다.
 
 ## 이미지와 문구
 
