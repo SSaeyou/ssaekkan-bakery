@@ -4,7 +4,7 @@
 
 ## 실행 및 GitHub Pages 배포
 
-`index.html`을 브라우저로 열면 메인 화면이 표시됩니다. 메인의 `전체상품`을 누르면 `products.html`로 이동하고, 전체상품 화면의 로고를 누르면 메인으로 돌아옵니다.
+`index.html`을 브라우저로 열면 메인 화면이 표시됩니다. 메인의 `전체상품`을 누르면 `products.html`로 이동하고, 전체상품 화면의 로고를 누르면 메인으로 돌아옵니다. 모바일에서는 메뉴 버튼을 연 뒤 `전체상품`을 누르면 이동합니다.
 
 저장소: https://github.com/SSaeyou/ssaekkan-bakery · GitHub Pages 주소: https://ssaeyou.github.io/ssaekkan-bakery/ . Pages 소스는 `main` 브랜치의 `/ (root)`입니다. 모든 내부 경로는 상대 경로입니다.
 
